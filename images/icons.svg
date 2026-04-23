@@ -71,5 +71,8 @@
   <symbol id="icon-close-black" viewBox="0 0 18 18">
     <path d="M15.1 13.5L10.6 9l4.5-4.5L13.5 3 9 7.5 4.5 3 3 4.5 7.5 9 3 13.5 4.5 15l4.5-4.5 4.5 4.5 1.6-1.5z"/>
   </symbol>
+  <symbol id="icon-icon-send" viewBox="0 0 24 24">
+    <path d="M24 0L0 13.5L7.66 16.14L11 24L14.66 18.14L21 21L24 0ZM9.1 15.1L18.1 6.1L11.1 16.1L9.1 15.1Z"/>
+  </symbol>
 </defs>
 </svg>
