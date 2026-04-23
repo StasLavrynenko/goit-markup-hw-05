@@ -385,7 +385,7 @@ img { display: block; max-width: 100%; height: auto; }
   fill: #f4f4fd;
 }
 .modal-checkbox:checked + .modal-checkbox-label .custom-checkbox .custom-checkbox-icon {
-  fill: #ffffff;
+  fill: #f4f4fd;
 }
 .privacy-link {
   color: #4d5ae5;
